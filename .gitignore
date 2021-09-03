@@ -1,0 +1,6 @@
+dist
+node_modules
+output.txt
+
+test.ts
+hoge.ts
